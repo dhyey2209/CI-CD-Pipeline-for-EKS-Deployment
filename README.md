@@ -11,4 +11,5 @@ The CI/CD pipeline integrates the following components:
 - **Jenkins**: Automates the deployment process, running Terraform code upon changes to the repository.
 - **AWS**: Hosts the EKS cluster.
 
-- ![Project Overview]("https://github.com/dhyey2209/terraform-jenkins-eks/blob/main/images/visual_image%20.png")
+![Project Overview](https://github.com/dhyey2209/terraform-jenkins-eks/blob/main/images/visual_image%20.png)
+
