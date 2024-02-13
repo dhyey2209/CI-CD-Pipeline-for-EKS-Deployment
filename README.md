@@ -1,6 +1,6 @@
 # CI/CD Pipeline for EKS Deployment
 
-This project automates the deployment of an Amazon Elastic Kubernetes Service (EKS) cluster using a CI/CD pipeline built with Terraform and Jenkins. The pipeline ensures that infrastructure as code (IaC) practices are followed and that the deployment process is repeatable and reliable.
+This project automates the deployment of an Amazon Elastic Kubernetes Service (EKS) cluster using a CI/CD pipeline built with Terraform and Jenkins. 
 
 ## Architecture Overview
 
